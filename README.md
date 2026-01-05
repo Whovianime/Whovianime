@@ -1,6 +1,5 @@
 - Hello! 
 - I created this account to explore GitHub and maybe learn how to code.
-- My interests include watching Doctor Who on repeat, anime, reading books and playing Minecraft!
 - Black Clover is GOATED
 - Have a nice day!
 <!---
